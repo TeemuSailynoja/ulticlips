@@ -3,10 +3,6 @@
 A tool to annotate videos of ultimate from recorded speech, and then
 edit the videos to clips matching selected parameters.
 
-## Description
-
-An in-depth paragraph about the project and an overview of use.
-
 ## Getting Started
 
 ### Dependencies
