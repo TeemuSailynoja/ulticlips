@@ -31,7 +31,8 @@ Mostly following the [original WhisperX setup](https://github.com/m-bain/whisper
 > Tested for PyTorch 2.0, Python 3.10 (use other versions at your own risk!)
 > 
 > GPU execution requires the NVIDIA libraries cuBLAS 11.x and cuDNN 8.x to be installed on the system. Please refer to the [CTranslate2 documentation](https://opennmt.net/CTranslate2/installation.html).
-> > Comment: You don't *need* GPU execution. It does speed things up, but a 2015 laptop handles speech-to-text with the `medium` model in almost real time.
+
+You don't *need* GPU execution. It does speed things up, but a 2015 laptop handles speech-to-text with the `medium` model in almost real time.
 
 ### 1. Create Python3.10 environment
 
