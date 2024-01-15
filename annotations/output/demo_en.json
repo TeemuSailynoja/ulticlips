@@ -1,0 +1,3560 @@
+{
+  "segments": [
+    {
+      "start": 0.929,
+      "end": 6.873,
+      "text": " This is an example recording for the video demo MP4.",
+      "words": [
+        {
+          "word": "This",
+          "start": 0.929,
+          "end": 1.09,
+          "score": 0.98
+        },
+        {
+          "word": "is",
+          "start": 1.15,
+          "end": 1.25,
+          "score": 0.78
+        },
+        {
+          "word": "an",
+          "start": 1.29,
+          "end": 1.35,
+          "score": 0.925
+        },
+        {
+          "word": "example",
+          "start": 1.43,
+          "end": 1.93,
+          "score": 0.809
+        },
+        {
+          "word": "recording",
+          "start": 2.01,
+          "end": 2.57,
+          "score": 0.859
+        },
+        {
+          "word": "for",
+          "start": 4.091,
+          "end": 4.451,
+          "score": 0.858
+        },
+        {
+          "word": "the",
+          "start": 4.711,
+          "end": 4.811,
+          "score": 0.723
+        },
+        {
+          "word": "video",
+          "start": 4.852,
+          "end": 5.352,
+          "score": 0.963
+        },
+        {
+          "word": "demo",
+          "start": 5.492,
+          "end": 5.872,
+          "score": 0.899
+        },
+        {
+          "word": "MP4.",
+          "start": 6.132,
+          "end": 6.873,
+          "score": 0.792
+        }
+      ]
+    },
+    {
+      "start": 9.234,
+      "end": 11.415,
+      "text": "Next point, home offense.",
+      "words": [
+        {
+          "word": "Next",
+          "start": 9.234,
+          "end": 9.474,
+          "score": 0.917
+        },
+        {
+          "word": "point,",
+          "start": 9.574,
+          "end": 9.874,
+          "score": 0.972
+        },
+        {
+          "word": "home",
+          "start": 10.374,
+          "end": 10.695,
+          "score": 0.82
+        },
+        {
+          "word": "offense.",
+          "start": 11.035,
+          "end": 11.415,
+          "score": 0.759
+        }
+      ]
+    },
+    {
+      "start": 12.796,
+      "end": 19.639,
+      "text": "Starting time, zero hours, zero minutes and 32 seconds.",
+      "words": [
+        {
+          "word": "Starting",
+          "start": 12.796,
+          "end": 13.216,
+          "score": 0.992
+        },
+        {
+          "word": "time,",
+          "start": 13.276,
+          "end": 13.616,
+          "score": 0.859
+        },
+        {
+          "word": "zero",
+          "start": 14.557,
+          "end": 14.917,
+          "score": 0.866
+        },
+        {
+          "word": "hours,",
+          "start": 14.977,
+          "end": 15.377,
+          "score": 0.852
+        },
+        {
+          "word": "zero",
+          "start": 16.738,
+          "end": 17.158,
+          "score": 0.879
+        },
+        {
+          "word": "minutes",
+          "start": 17.238,
+          "end": 17.618,
+          "score": 0.823
+        },
+        {
+          "word": "and",
+          "start": 18.198,
+          "end": 19.039,
+          "score": 0.826
+        },
+        {
+          "word": "32"
+        },
+        {
+          "word": "seconds.",
+          "start": 19.179,
+          "end": 19.639,
+          "score": 0.821
+        }
+      ]
+    },
+    {
+      "start": 22.821,
+      "end": 24.962,
+      "text": "Point starts now.",
+      "words": [
+        {
+          "word": "Point",
+          "start": 22.821,
+          "end": 23.161,
+          "score": 0.815
+        },
+        {
+          "word": "starts",
+          "start": 23.481,
+          "end": 24.021,
+          "score": 0.886
+        },
+        {
+          "word": "now.",
+          "start": 24.782,
+          "end": 24.962,
+          "score": 0.65
+        }
+      ]
+    },
+    {
+      "start": 36.431,
+      "end": 55.044,
+      "text": " defense force forehand score point ends home score score home next point home defense players 68 77 40 21",
+      "words": [
+        {
+          "word": "defense",
+          "start": 36.431,
+          "end": 36.931,
+          "score": 0.806
+        },
+        {
+          "word": "force",
+          "start": 37.392,
+          "end": 37.752,
+          "score": 0.84
+        },
+        {
+          "word": "forehand",
+          "start": 37.812,
+          "end": 38.332,
+          "score": 0.875
+        },
+        {
+          "word": "score",
+          "start": 39.133,
+          "end": 39.593,
+          "score": 0.852
+        },
+        {
+          "word": "point",
+          "start": 40.294,
+          "end": 40.614,
+          "score": 0.925
+        },
+        {
+          "word": "ends",
+          "start": 40.794,
+          "end": 41.014,
+          "score": 0.867
+        },
+        {
+          "word": "home",
+          "start": 43.176,
+          "end": 43.496,
+          "score": 0.831
+        },
+        {
+          "word": "score",
+          "start": 43.516,
+          "end": 43.916,
+          "score": 0.859
+        },
+        {
+          "word": "score",
+          "start": 44.817,
+          "end": 45.177,
+          "score": 0.888
+        },
+        {
+          "word": "home",
+          "start": 45.377,
+          "end": 45.698,
+          "score": 0.77
+        },
+        {
+          "word": "next",
+          "start": 50.801,
+          "end": 51.041,
+          "score": 0.903
+        },
+        {
+          "word": "point",
+          "start": 51.141,
+          "end": 51.442,
+          "score": 0.927
+        },
+        {
+          "word": "home",
+          "start": 52.562,
+          "end": 52.943,
+          "score": 0.837
+        },
+        {
+          "word": "defense",
+          "start": 53.283,
+          "end": 53.823,
+          "score": 0.814
+        },
+        {
+          "word": "players",
+          "start": 54.564,
+          "end": 55.044,
+          "score": 0.897
+        },
+        {
+          "word": "68"
+        },
+        {
+          "word": "77"
+        },
+        {
+          "word": "40"
+        },
+        {
+          "word": "21"
+        }
+      ]
+    },
+    {
+      "start": 70.626,
+      "end": 70.746,
+      "text": " And 34.",
+      "words": [
+        {
+          "word": "And",
+          "start": 70.626,
+          "end": 70.746,
+          "score": 0.822
+        },
+        {
+          "word": "34."
+        }
+      ]
+    },
+    {
+      "start": 77.45,
+      "end": 78.731,
+      "text": "Point starts.",
+      "words": [
+        {
+          "word": "Point",
+          "start": 77.45,
+          "end": 77.831,
+          "score": 0.839
+        },
+        {
+          "word": "starts.",
+          "start": 78.251,
+          "end": 78.731,
+          "score": 0.856
+        }
+      ]
+    },
+    {
+      "start": 86.016,
+      "end": 86.296,
+      "text": "Now.",
+      "words": [
+        {
+          "word": "Now.",
+          "start": 86.016,
+          "end": 86.296,
+          "score": 0.947
+        }
+      ]
+    },
+    {
+      "start": 92.54,
+      "end": 93.04,
+      "text": "Defense.",
+      "words": [
+        {
+          "word": "Defense.",
+          "start": 92.54,
+          "end": 93.04,
+          "score": 0.812
+        }
+      ]
+    },
+    {
+      "start": 94.021,
+      "end": 94.361,
+      "text": "Man.",
+      "words": [
+        {
+          "word": "Man.",
+          "start": 94.021,
+          "end": 94.361,
+          "score": 0.927
+        }
+      ]
+    },
+    {
+      "start": 94.541,
+      "end": 95.041,
+      "text": "Defense.",
+      "words": [
+        {
+          "word": "Defense.",
+          "start": 94.541,
+          "end": 95.041,
+          "score": 0.772
+        }
+      ]
+    },
+    {
+      "start": 95.322,
+      "end": 95.762,
+      "text": "Force.",
+      "words": [
+        {
+          "word": "Force.",
+          "start": 95.322,
+          "end": 95.762,
+          "score": 0.843
+        }
+      ]
+    },
+    {
+      "start": 96.783,
+      "end": 97.323,
+      "text": "Forehand.",
+      "words": [
+        {
+          "word": "Forehand.",
+          "start": 96.783,
+          "end": 97.323,
+          "score": 0.897
+        }
+      ]
+    },
+    {
+      "start": 104.902,
+      "end": 106.32,
+      "text": " file discussion.",
+      "words": [
+        {
+          "word": "file",
+          "start": 104.902,
+          "end": 105.307,
+          "score": 0.814
+        },
+        {
+          "word": "discussion.",
+          "start": 105.733,
+          "end": 106.32,
+          "score": 0.972
+        }
+      ]
+    },
+    {
+      "start": 144.642,
+      "end": 145.183,
+      "text": " Continue.",
+      "words": [
+        {
+          "word": "Continue.",
+          "start": 144.642,
+          "end": 145.183,
+          "score": 0.88
+        }
+      ]
+    },
+    {
+      "start": 156.004,
+      "end": 156.586,
+      "text": "Turn over.",
+      "words": [
+        {
+          "word": "Turn",
+          "start": 156.004,
+          "end": 156.305,
+          "score": 0.757
+        },
+        {
+          "word": "over.",
+          "start": 156.405,
+          "end": 156.586,
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "start": 176.519,
+      "end": 177.239,
+      "text": " Turn over.",
+      "words": [
+        {
+          "word": "Turn",
+          "start": 176.519,
+          "end": 176.819,
+          "score": 0.796
+        },
+        {
+          "word": "over.",
+          "start": 176.979,
+          "end": 177.239,
+          "score": 0.811
+        }
+      ]
+    },
+    {
+      "start": 193.623,
+      "end": 194.003,
+      "text": "Score.",
+      "words": [
+        {
+          "word": "Score.",
+          "start": 193.623,
+          "end": 194.003,
+          "score": 0.86
+        }
+      ]
+    },
+    {
+      "start": 195.404,
+      "end": 196.384,
+      "text": "Home scores.",
+      "words": [
+        {
+          "word": "Home",
+          "start": 195.404,
+          "end": 195.824,
+          "score": 0.786
+        },
+        {
+          "word": "scores.",
+          "start": 195.884,
+          "end": 196.384,
+          "score": 0.862
+        }
+      ]
+    },
+    {
+      "start": 197.344,
+      "end": 197.984,
+      "text": "Score home.",
+      "words": [
+        {
+          "word": "Score",
+          "start": 197.344,
+          "end": 197.664,
+          "score": 0.853
+        },
+        {
+          "word": "home.",
+          "start": 197.724,
+          "end": 197.984,
+          "score": 0.901
+        }
+      ]
+    },
+    {
+      "start": 198.744,
+      "end": 199.324,
+      "text": "End point.",
+      "words": [
+        {
+          "word": "End",
+          "start": 198.744,
+          "end": 198.904,
+          "score": 0.812
+        },
+        {
+          "word": "point.",
+          "start": 199.004,
+          "end": 199.324,
+          "score": 0.727
+        }
+      ]
+    },
+    {
+      "start": 203.365,
+      "end": 203.986,
+      "text": "Next point.",
+      "words": [
+        {
+          "word": "Next",
+          "start": 203.365,
+          "end": 203.586,
+          "score": 0.779
+        },
+        {
+          "word": "point.",
+          "start": 203.666,
+          "end": 203.986,
+          "score": 0.893
+        }
+      ]
+    },
+    {
+      "start": 204.446,
+      "end": 205.406,
+      "text": "Home defense.",
+      "words": [
+        {
+          "word": "Home",
+          "start": 204.446,
+          "end": 204.766,
+          "score": 0.832
+        },
+        {
+          "word": "defense.",
+          "start": 204.926,
+          "end": 205.406,
+          "score": 0.616
+        }
+      ]
+    },
+    {
+      "start": 210.498,
+      "end": 237.397,
+      "text": " start now defense force forehand turn over",
+      "words": [
+        {
+          "word": "start",
+          "start": 210.498,
+          "end": 210.958,
+          "score": 0.859
+        },
+        {
+          "word": "now",
+          "start": 212.66,
+          "end": 212.88,
+          "score": 0.984
+        },
+        {
+          "word": "defense",
+          "start": 223.367,
+          "end": 223.867,
+          "score": 0.804
+        },
+        {
+          "word": "force",
+          "start": 224.768,
+          "end": 225.168,
+          "score": 0.672
+        },
+        {
+          "word": "forehand",
+          "start": 227.13,
+          "end": 227.67,
+          "score": 0.857
+        },
+        {
+          "word": "turn",
+          "start": 236.817,
+          "end": 237.117,
+          "score": 0.817
+        },
+        {
+          "word": "over",
+          "start": 237.237,
+          "end": 237.397,
+          "score": 0.954
+        }
+      ]
+    },
+    {
+      "start": 261.536,
+      "end": 278.526,
+      "text": " turn over home defense force forehand turn over",
+      "words": [
+        {
+          "word": "turn",
+          "start": 261.536,
+          "end": 261.836,
+          "score": 0.866
+        },
+        {
+          "word": "over",
+          "start": 261.976,
+          "end": 262.236,
+          "score": 0.774
+        },
+        {
+          "word": "home",
+          "start": 272.623,
+          "end": 272.923,
+          "score": 0.85
+        },
+        {
+          "word": "defense",
+          "start": 272.963,
+          "end": 273.483,
+          "score": 0.762
+        },
+        {
+          "word": "force",
+          "start": 273.943,
+          "end": 274.324,
+          "score": 0.863
+        },
+        {
+          "word": "forehand",
+          "start": 274.404,
+          "end": 274.924,
+          "score": 0.808
+        },
+        {
+          "word": "turn",
+          "start": 277.966,
+          "end": 278.266,
+          "score": 0.848
+        },
+        {
+          "word": "over",
+          "start": 278.366,
+          "end": 278.526,
+          "score": 0.943
+        }
+      ]
+    },
+    {
+      "start": 325.667,
+      "end": 326.238,
+      "text": " turn over.",
+      "words": [
+        {
+          "word": "turn",
+          "start": 325.667,
+          "end": 325.953,
+          "score": 0.687
+        },
+        {
+          "word": "over.",
+          "start": 326.055,
+          "end": 326.238,
+          "score": 0.983
+        }
+      ]
+    },
+    {
+      "start": 387.455,
+      "end": 388.055,
+      "text": " Turn over.",
+      "words": [
+        {
+          "word": "Turn",
+          "start": 387.455,
+          "end": 387.755,
+          "score": 0.904
+        },
+        {
+          "word": "over.",
+          "start": 387.835,
+          "end": 388.055,
+          "score": 0.828
+        }
+      ]
+    },
+    {
+      "start": 389.936,
+      "end": 390.536,
+      "text": "Correction.",
+      "words": [
+        {
+          "word": "Correction.",
+          "start": 389.936,
+          "end": 390.536,
+          "score": 0.889
+        }
+      ]
+    },
+    {
+      "start": 392.057,
+      "end": 393.157,
+      "text": "No turn over.",
+      "words": [
+        {
+          "word": "No",
+          "start": 392.057,
+          "end": 392.357,
+          "score": 0.97
+        },
+        {
+          "word": "turn",
+          "start": 392.497,
+          "end": 392.777,
+          "score": 0.862
+        },
+        {
+          "word": "over.",
+          "start": 392.897,
+          "end": 393.157,
+          "score": 0.807
+        }
+      ]
+    },
+    {
+      "start": 394.557,
+      "end": 395.018,
+      "text": "Score.",
+      "words": [
+        {
+          "word": "Score.",
+          "start": 394.557,
+          "end": 395.018,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "start": 395.318,
+      "end": 396.098,
+      "text": "Point ends.",
+      "words": [
+        {
+          "word": "Point",
+          "start": 395.318,
+          "end": 395.678,
+          "score": 0.761
+        },
+        {
+          "word": "ends.",
+          "start": 395.838,
+          "end": 396.098,
+          "score": 0.895
+        }
+      ]
+    },
+    {
+      "start": 399.019,
+      "end": 400.359,
+      "text": "Score away.",
+      "words": [
+        {
+          "word": "Score",
+          "start": 399.019,
+          "end": 399.499,
+          "score": 0.817
+        },
+        {
+          "word": "away.",
+          "start": 399.939,
+          "end": 400.359,
+          "score": 0.907
+        }
+      ]
+    },
+    {
+      "start": 408.362,
+      "end": 409.042,
+      "text": "Next point.",
+      "words": [
+        {
+          "word": "Next",
+          "start": 408.362,
+          "end": 408.662,
+          "score": 0.914
+        },
+        {
+          "word": "point.",
+          "start": 408.722,
+          "end": 409.042,
+          "score": 0.81
+        }
+      ]
+    },
+    {
+      "start": 411.423,
+      "end": 413.244,
+      "text": "Home starts on offense.",
+      "words": [
+        {
+          "word": "Home",
+          "start": 411.423,
+          "end": 411.783,
+          "score": 0.93
+        },
+        {
+          "word": "starts",
+          "start": 411.923,
+          "end": 412.324,
+          "score": 0.868
+        },
+        {
+          "word": "on",
+          "start": 412.564,
+          "end": 412.684,
+          "score": 0.95
+        },
+        {
+          "word": "offense.",
+          "start": 412.884,
+          "end": 413.244,
+          "score": 0.783
+        }
+      ]
+    },
+    {
+      "start": 415.902,
+      "end": 423.207,
+      "text": " players 32 11 17 point starts now players 7 27 40 score",
+      "words": [
+        {
+          "word": "players",
+          "start": 415.902,
+          "end": 416.282,
+          "score": 0.888
+        },
+        {
+          "word": "32"
+        },
+        {
+          "word": "11"
+        },
+        {
+          "word": "17"
+        },
+        {
+          "word": "point",
+          "start": 416.723,
+          "end": 417.143,
+          "score": 0.607
+        },
+        {
+          "word": "starts",
+          "start": 417.163,
+          "end": 417.443,
+          "score": 0.441
+        },
+        {
+          "word": "now",
+          "start": 417.463,
+          "end": 420.825,
+          "score": 0.331
+        },
+        {
+          "word": "players",
+          "start": 420.885,
+          "end": 421.225,
+          "score": 0.494
+        },
+        {
+          "word": "7"
+        },
+        {
+          "word": "27"
+        },
+        {
+          "word": "40"
+        },
+        {
+          "word": "score",
+          "start": 422.926,
+          "end": 423.207,
+          "score": 0.801
+        }
+      ]
+    },
+    {
+      "start": 445.424,
+      "end": 462.672,
+      "text": " point ends now home score next point home starts on defense",
+      "words": [
+        {
+          "word": "point",
+          "start": 445.424,
+          "end": 445.744,
+          "score": 0.893
+        },
+        {
+          "word": "ends",
+          "start": 445.964,
+          "end": 446.184,
+          "score": 0.735
+        },
+        {
+          "word": "now",
+          "start": 447.705,
+          "end": 447.965,
+          "score": 0.853
+        },
+        {
+          "word": "home",
+          "start": 451.227,
+          "end": 451.647,
+          "score": 0.73
+        },
+        {
+          "word": "score",
+          "start": 451.747,
+          "end": 452.127,
+          "score": 0.91
+        },
+        {
+          "word": "next",
+          "start": 459.35,
+          "end": 459.59,
+          "score": 0.895
+        },
+        {
+          "word": "point",
+          "start": 459.671,
+          "end": 459.991,
+          "score": 0.826
+        },
+        {
+          "word": "home",
+          "start": 460.891,
+          "end": 461.231,
+          "score": 0.757
+        },
+        {
+          "word": "starts",
+          "start": 461.291,
+          "end": 461.671,
+          "score": 0.939
+        },
+        {
+          "word": "on",
+          "start": 461.932,
+          "end": 462.092,
+          "score": 0.714
+        },
+        {
+          "word": "defense",
+          "start": 462.232,
+          "end": 462.672,
+          "score": 0.777
+        }
+      ]
+    },
+    {
+      "start": 477.912,
+      "end": 479.032,
+      "text": " Point starts.",
+      "words": [
+        {
+          "word": "Point",
+          "start": 477.912,
+          "end": 478.272,
+          "score": 0.925
+        },
+        {
+          "word": "starts.",
+          "start": 478.512,
+          "end": 479.032,
+          "score": 0.838
+        }
+      ]
+    },
+    {
+      "start": 483.134,
+      "end": 483.394,
+      "text": "Now.",
+      "words": [
+        {
+          "word": "Now.",
+          "start": 483.134,
+          "end": 483.394,
+          "score": 0.942
+        }
+      ]
+    },
+    {
+      "start": 499.742,
+      "end": 500.482,
+      "text": "Break chord.",
+      "words": [
+        {
+          "word": "Break",
+          "start": 499.742,
+          "end": 500.022,
+          "score": 0.951
+        },
+        {
+          "word": "chord.",
+          "start": 500.182,
+          "end": 500.482,
+          "score": 0.789
+        }
+      ]
+    },
+    {
+      "start": 512.941,
+      "end": 532.054,
+      "text": " score point ends next point players 32 27 17",
+      "words": [
+        {
+          "word": "score",
+          "start": 512.941,
+          "end": 513.421,
+          "score": 0.866
+        },
+        {
+          "word": "point",
+          "start": 513.762,
+          "end": 514.102,
+          "score": 0.838
+        },
+        {
+          "word": "ends",
+          "start": 514.282,
+          "end": 514.502,
+          "score": 0.673
+        },
+        {
+          "word": "next",
+          "start": 530.653,
+          "end": 530.893,
+          "score": 0.978
+        },
+        {
+          "word": "point",
+          "start": 530.973,
+          "end": 531.313,
+          "score": 0.812
+        },
+        {
+          "word": "players",
+          "start": 531.553,
+          "end": 532.054,
+          "score": 0.912
+        },
+        {
+          "word": "32"
+        },
+        {
+          "word": "27"
+        },
+        {
+          "word": "17"
+        }
+      ]
+    },
+    {
+      "start": 548.784,
+      "end": 549.664,
+      "text": " 40, 11 point starts.",
+      "words": [
+        {
+          "word": "40,"
+        },
+        {
+          "word": "11"
+        },
+        {
+          "word": "point",
+          "start": 548.924,
+          "end": 549.184,
+          "score": 0.951
+        },
+        {
+          "word": "starts.",
+          "start": 549.244,
+          "end": 549.664,
+          "score": 0.932
+        }
+      ]
+    },
+    {
+      "start": 552.486,
+      "end": 552.727,
+      "text": "Now.",
+      "words": [
+        {
+          "word": "Now.",
+          "start": 552.486,
+          "end": 552.727,
+          "score": 0.883
+        }
+      ]
+    },
+    {
+      "start": 560.452,
+      "end": 561.873,
+      "text": "Score point ends.",
+      "words": [
+        {
+          "word": "Score",
+          "start": 560.452,
+          "end": 560.912,
+          "score": 0.896
+        },
+        {
+          "word": "point",
+          "start": 561.172,
+          "end": 561.493,
+          "score": 0.87
+        },
+        {
+          "word": "ends.",
+          "start": 561.673,
+          "end": 561.873,
+          "score": 0.872
+        }
+      ]
+    },
+    {
+      "start": 574.873,
+      "end": 577.715,
+      "text": " Next point, home starts on defense.",
+      "words": [
+        {
+          "word": "Next",
+          "start": 574.873,
+          "end": 575.093,
+          "score": 0.933
+        },
+        {
+          "word": "point,",
+          "start": 575.213,
+          "end": 575.534,
+          "score": 0.907
+        },
+        {
+          "word": "home",
+          "start": 576.174,
+          "end": 576.474,
+          "score": 0.987
+        },
+        {
+          "word": "starts",
+          "start": 576.514,
+          "end": 576.875,
+          "score": 0.836
+        },
+        {
+          "word": "on",
+          "start": 577.035,
+          "end": 577.135,
+          "score": 0.76
+        },
+        {
+          "word": "defense.",
+          "start": 577.175,
+          "end": 577.715,
+          "score": 0.771
+        }
+      ]
+    },
+    {
+      "start": 596.869,
+      "end": 597.63,
+      "text": "Point starts.",
+      "words": [
+        {
+          "word": "Point",
+          "start": 596.869,
+          "end": 597.17,
+          "score": 0.782
+        },
+        {
+          "word": "starts.",
+          "start": 597.21,
+          "end": 597.63,
+          "score": 0.906
+        }
+      ]
+    },
+    {
+      "start": 598.611,
+      "end": 598.811,
+      "text": "Now,",
+      "words": [
+        {
+          "word": "Now,",
+          "start": 598.611,
+          "end": 598.811,
+          "score": 0.991
+        }
+      ]
+    },
+    {
+      "start": 615.646,
+      "end": 627.774,
+      "text": " Score point ends Next point Home starts on offense Players 32 11 27 17 40 Point starts",
+      "words": [
+        {
+          "word": "Score",
+          "start": 615.646,
+          "end": 616.126,
+          "score": 0.869
+        },
+        {
+          "word": "point",
+          "start": 617.147,
+          "end": 617.427,
+          "score": 0.805
+        },
+        {
+          "word": "ends",
+          "start": 617.627,
+          "end": 617.888,
+          "score": 0.772
+        },
+        {
+          "word": "Next",
+          "start": 621.71,
+          "end": 621.97,
+          "score": 0.948
+        },
+        {
+          "word": "point",
+          "start": 622.07,
+          "end": 622.41,
+          "score": 0.921
+        },
+        {
+          "word": "Home",
+          "start": 623.571,
+          "end": 623.911,
+          "score": 0.87
+        },
+        {
+          "word": "starts",
+          "start": 623.951,
+          "end": 624.312,
+          "score": 0.949
+        },
+        {
+          "word": "on",
+          "start": 624.492,
+          "end": 624.572,
+          "score": 0.966
+        },
+        {
+          "word": "offense",
+          "start": 624.712,
+          "end": 625.092,
+          "score": 0.629
+        },
+        {
+          "word": "Players",
+          "start": 626.213,
+          "end": 626.733,
+          "score": 0.924
+        },
+        {
+          "word": "32"
+        },
+        {
+          "word": "11"
+        },
+        {
+          "word": "27"
+        },
+        {
+          "word": "17"
+        },
+        {
+          "word": "40"
+        },
+        {
+          "word": "Point",
+          "start": 627.093,
+          "end": 627.454,
+          "score": 0.664
+        },
+        {
+          "word": "starts",
+          "start": 627.474,
+          "end": 627.774,
+          "score": 0.471
+        }
+      ]
+    },
+    {
+      "start": 649.457,
+      "end": 657.281,
+      "text": " Now, brick called.",
+      "words": [
+        {
+          "word": "Now,",
+          "start": 649.457,
+          "end": 649.697,
+          "score": 0.942
+        },
+        {
+          "word": "brick",
+          "start": 656.561,
+          "end": 656.841,
+          "score": 0.736
+        },
+        {
+          "word": "called.",
+          "start": 656.941,
+          "end": 657.281,
+          "score": 0.672
+        }
+      ]
+    },
+    {
+      "start": 670.388,
+      "end": 673.39,
+      "text": "Defense for backhand, force backhand.",
+      "words": [
+        {
+          "word": "Defense",
+          "start": 670.388,
+          "end": 670.889,
+          "score": 0.768
+        },
+        {
+          "word": "for",
+          "start": 671.109,
+          "end": 671.469,
+          "score": 0.761
+        },
+        {
+          "word": "backhand,",
+          "start": 671.689,
+          "end": 672.209,
+          "score": 0.91
+        },
+        {
+          "word": "force",
+          "start": 672.79,
+          "end": 673.03,
+          "score": 0.726
+        },
+        {
+          "word": "backhand.",
+          "start": 673.05,
+          "end": 673.39,
+          "score": 0.879
+        }
+      ]
+    },
+    {
+      "start": 678.562,
+      "end": 679.742,
+      "text": " Score point ends.",
+      "words": [
+        {
+          "word": "Score",
+          "start": 678.562,
+          "end": 679.002,
+          "score": 0.784
+        },
+        {
+          "word": "point",
+          "start": 679.142,
+          "end": 679.422,
+          "score": 0.831
+        },
+        {
+          "word": "ends.",
+          "start": 679.542,
+          "end": 679.742,
+          "score": 0.832
+        }
+      ]
+    },
+    {
+      "start": 702.749,
+      "end": 703.37,
+      "text": "Next point.",
+      "words": [
+        {
+          "word": "Next",
+          "start": 702.749,
+          "end": 702.95,
+          "score": 0.864
+        },
+        {
+          "word": "point.",
+          "start": 703.03,
+          "end": 703.37,
+          "score": 0.86
+        }
+      ]
+    },
+    {
+      "start": 704.29,
+      "end": 705.55,
+      "text": "Homestarch on defense.",
+      "words": [
+        {
+          "word": "Homestarch",
+          "start": 704.29,
+          "end": 704.85,
+          "score": 0.744
+        },
+        {
+          "word": "on",
+          "start": 704.91,
+          "end": 704.99,
+          "score": 0.992
+        },
+        {
+          "word": "defense.",
+          "start": 705.03,
+          "end": 705.55,
+          "score": 0.744
+        }
+      ]
+    },
+    {
+      "start": 706.551,
+      "end": 707.291,
+      "text": "Point starts.",
+      "words": [
+        {
+          "word": "Point",
+          "start": 706.551,
+          "end": 706.851,
+          "score": 0.807
+        },
+        {
+          "word": "starts.",
+          "start": 706.911,
+          "end": 707.291,
+          "score": 0.924
+        }
+      ]
+    },
+    {
+      "start": 713.866,
+      "end": 714.126,
+      "text": " Now.",
+      "words": [
+        {
+          "word": "Now.",
+          "start": 713.866,
+          "end": 714.126,
+          "score": 0.946
+        }
+      ]
+    },
+    {
+      "start": 727.392,
+      "end": 728.952,
+      "text": "Defense force middle.",
+      "words": [
+        {
+          "word": "Defense",
+          "start": 727.392,
+          "end": 727.912,
+          "score": 0.828
+        },
+        {
+          "word": "force",
+          "start": 728.172,
+          "end": 728.532,
+          "score": 0.913
+        },
+        {
+          "word": "middle.",
+          "start": 728.612,
+          "end": 728.952,
+          "score": 0.786
+        }
+      ]
+    },
+    {
+      "start": 732.014,
+      "end": 732.554,
+      "text": "Turn over.",
+      "words": [
+        {
+          "word": "Turn",
+          "start": 732.014,
+          "end": 732.314,
+          "score": 0.735
+        },
+        {
+          "word": "over.",
+          "start": 732.394,
+          "end": 732.554,
+          "score": 0.96
+        }
+      ]
+    },
+    {
+      "start": 768.34,
+      "end": 771.706,
+      "text": " score, home scores, point ends.",
+      "words": [
+        {
+          "word": "score,",
+          "start": 768.34,
+          "end": 768.801,
+          "score": 0.867
+        },
+        {
+          "word": "home",
+          "start": 769.082,
+          "end": 769.422,
+          "score": 0.647
+        },
+        {
+          "word": "scores,",
+          "start": 769.462,
+          "end": 769.963,
+          "score": 0.842
+        },
+        {
+          "word": "point",
+          "start": 770.965,
+          "end": 771.266,
+          "score": 0.8
+        },
+        {
+          "word": "ends.",
+          "start": 771.486,
+          "end": 771.706,
+          "score": 0.812
+        }
+      ]
+    },
+    {
+      "start": 774.512,
+      "end": 777.677,
+      "text": "Next point, home starts on defense.",
+      "words": [
+        {
+          "word": "Next",
+          "start": 774.512,
+          "end": 774.772,
+          "score": 0.929
+        },
+        {
+          "word": "point,",
+          "start": 774.872,
+          "end": 775.213,
+          "score": 0.867
+        },
+        {
+          "word": "home",
+          "start": 776.115,
+          "end": 776.435,
+          "score": 0.715
+        },
+        {
+          "word": "starts",
+          "start": 776.455,
+          "end": 776.836,
+          "score": 0.823
+        },
+        {
+          "word": "on",
+          "start": 777.016,
+          "end": 777.116,
+          "score": 0.88
+        },
+        {
+          "word": "defense.",
+          "start": 777.177,
+          "end": 777.677,
+          "score": 0.861
+        }
+      ]
+    },
+    {
+      "start": 858.493,
+      "end": 861.654,
+      "text": " players 34, 21, 40, 15, 77 point starts now.",
+      "words": [
+        {
+          "word": "players",
+          "start": 858.493,
+          "end": 858.933,
+          "score": 0.877
+        },
+        {
+          "word": "34,"
+        },
+        {
+          "word": "21,"
+        },
+        {
+          "word": "40,"
+        },
+        {
+          "word": "15,"
+        },
+        {
+          "word": "77"
+        },
+        {
+          "word": "point",
+          "start": 860.294,
+          "end": 860.614,
+          "score": 0.62
+        },
+        {
+          "word": "starts",
+          "start": 860.674,
+          "end": 861.014,
+          "score": 0.418
+        },
+        {
+          "word": "now.",
+          "start": 861.034,
+          "end": 861.654,
+          "score": 0.819
+        }
+      ]
+    },
+    {
+      "start": 894.659,
+      "end": 907.999,
+      "text": " defense, force middle, turnover, home scores, point ends.",
+      "words": [
+        {
+          "word": "defense,",
+          "start": 894.659,
+          "end": 895.1,
+          "score": 0.762
+        },
+        {
+          "word": "force",
+          "start": 896.101,
+          "end": 896.482,
+          "score": 0.933
+        },
+        {
+          "word": "middle,",
+          "start": 896.542,
+          "end": 896.862,
+          "score": 0.78
+        },
+        {
+          "word": "turnover,",
+          "start": 900.387,
+          "end": 901.028,
+          "score": 0.831
+        },
+        {
+          "word": "home",
+          "start": 905.555,
+          "end": 905.915,
+          "score": 0.945
+        },
+        {
+          "word": "scores,",
+          "start": 905.956,
+          "end": 906.496,
+          "score": 0.839
+        },
+        {
+          "word": "point",
+          "start": 907.298,
+          "end": 907.618,
+          "score": 0.957
+        },
+        {
+          "word": "ends.",
+          "start": 907.798,
+          "end": 907.999,
+          "score": 0.868
+        }
+      ]
+    },
+    {
+      "start": 947.483,
+      "end": 948.157,
+      "text": " Next point.",
+      "words": [
+        {
+          "word": "Next",
+          "start": 947.483,
+          "end": 947.728,
+          "score": 0.96
+        },
+        {
+          "word": "point.",
+          "start": 947.871,
+          "end": 948.157,
+          "score": 0.675
+        }
+      ]
+    },
+    {
+      "start": 977.987,
+      "end": 979.467,
+      "text": " Home starts on defense.",
+      "words": [
+        {
+          "word": "Home",
+          "start": 977.987,
+          "end": 978.287,
+          "score": 0.908
+        },
+        {
+          "word": "starts",
+          "start": 978.327,
+          "end": 978.667,
+          "score": 0.877
+        },
+        {
+          "word": "on",
+          "start": 978.767,
+          "end": 978.887,
+          "score": 0.978
+        },
+        {
+          "word": "defense.",
+          "start": 978.947,
+          "end": 979.467,
+          "score": 0.76
+        }
+      ]
+    },
+    {
+      "start": 995.79,
+      "end": 997.13,
+      "text": "Players, Fullity.",
+      "words": [
+        {
+          "word": "Players,",
+          "start": 995.79,
+          "end": 996.31,
+          "score": 0.861
+        },
+        {
+          "word": "Fullity.",
+          "start": 996.51,
+          "end": 997.13,
+          "score": 0.753
+        }
+      ]
+    },
+    {
+      "start": 1000.471,
+      "end": 1001.271,
+      "text": "Point starts.",
+      "words": [
+        {
+          "word": "Point",
+          "start": 1000.471,
+          "end": 1000.751,
+          "score": 0.98
+        },
+        {
+          "word": "starts.",
+          "start": 1000.811,
+          "end": 1001.271,
+          "score": 0.822
+        }
+      ]
+    },
+    {
+      "start": 1005.052,
+      "end": 1005.312,
+      "text": "Now.",
+      "words": [
+        {
+          "word": "Now.",
+          "start": 1005.052,
+          "end": 1005.312,
+          "score": 0.981
+        }
+      ]
+    },
+    {
+      "start": 1015.469,
+      "end": 1033.806,
+      "text": " players 68 score point ends next point home on offense players 11 40 32 17 27",
+      "words": [
+        {
+          "word": "players",
+          "start": 1015.469,
+          "end": 1016.45,
+          "score": 0.831
+        },
+        {
+          "word": "68"
+        },
+        {
+          "word": "score",
+          "start": 1021.855,
+          "end": 1022.315,
+          "score": 0.919
+        },
+        {
+          "word": "point",
+          "start": 1023.096,
+          "end": 1023.396,
+          "score": 0.866
+        },
+        {
+          "word": "ends",
+          "start": 1023.536,
+          "end": 1023.777,
+          "score": 0.831
+        },
+        {
+          "word": "next",
+          "start": 1029.782,
+          "end": 1030.022,
+          "score": 0.899
+        },
+        {
+          "word": "point",
+          "start": 1030.123,
+          "end": 1030.463,
+          "score": 0.752
+        },
+        {
+          "word": "home",
+          "start": 1031.404,
+          "end": 1031.704,
+          "score": 0.829
+        },
+        {
+          "word": "on",
+          "start": 1031.884,
+          "end": 1032.024,
+          "score": 0.893
+        },
+        {
+          "word": "offense",
+          "start": 1032.285,
+          "end": 1032.705,
+          "score": 0.689
+        },
+        {
+          "word": "players",
+          "start": 1033.345,
+          "end": 1033.806,
+          "score": 0.832
+        },
+        {
+          "word": "11"
+        },
+        {
+          "word": "40"
+        },
+        {
+          "word": "32"
+        },
+        {
+          "word": "17"
+        },
+        {
+          "word": "27"
+        }
+      ]
+    },
+    {
+      "start": 1056.018,
+      "end": 1056.839,
+      "text": " Point starts.",
+      "words": [
+        {
+          "word": "Point",
+          "start": 1056.018,
+          "end": 1056.339,
+          "score": 0.741
+        },
+        {
+          "word": "starts.",
+          "start": 1056.379,
+          "end": 1056.839,
+          "score": 0.821
+        }
+      ]
+    },
+    {
+      "start": 1061.206,
+      "end": 1061.466,
+      "text": "Now.",
+      "words": [
+        {
+          "word": "Now.",
+          "start": 1061.206,
+          "end": 1061.466,
+          "score": 0.927
+        }
+      ]
+    },
+    {
+      "start": 1069.298,
+      "end": 1070.079,
+      "text": "Break called.",
+      "words": [
+        {
+          "word": "Break",
+          "start": 1069.298,
+          "end": 1069.598,
+          "score": 0.795
+        },
+        {
+          "word": "called.",
+          "start": 1069.738,
+          "end": 1070.079,
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "start": 1087.406,
+      "end": 1089.188,
+      "text": " Defense force backhand.",
+      "words": [
+        {
+          "word": "Defense",
+          "start": 1087.406,
+          "end": 1087.906,
+          "score": 0.827
+        },
+        {
+          "word": "force",
+          "start": 1088.187,
+          "end": 1088.567,
+          "score": 0.563
+        },
+        {
+          "word": "backhand.",
+          "start": 1088.707,
+          "end": 1089.188,
+          "score": 0.89
+        }
+      ]
+    },
+    {
+      "start": 1090.008,
+      "end": 1090.429,
+      "text": "Score.",
+      "words": [
+        {
+          "word": "Score.",
+          "start": 1090.008,
+          "end": 1090.429,
+          "score": 0.836
+        }
+      ]
+    },
+    {
+      "start": 1092.31,
+      "end": 1092.931,
+      "text": "Point ends.",
+      "words": [
+        {
+          "word": "Point",
+          "start": 1092.31,
+          "end": 1092.591,
+          "score": 0.85
+        },
+        {
+          "word": "ends.",
+          "start": 1092.751,
+          "end": 1092.931,
+          "score": 0.891
+        }
+      ]
+    },
+    {
+      "start": 1122.718,
+      "end": 1123.424,
+      "text": " Game ends.",
+      "words": [
+        {
+          "word": "Game",
+          "start": 1122.718,
+          "end": 1123.061,
+          "score": 0.878
+        },
+        {
+          "word": "ends.",
+          "start": 1123.202,
+          "end": 1123.424,
+          "score": 0.915
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "This",
+      "start": 0.929,
+      "end": 1.09,
+      "score": 0.98
+    },
+    {
+      "word": "is",
+      "start": 1.15,
+      "end": 1.25,
+      "score": 0.78
+    },
+    {
+      "word": "an",
+      "start": 1.29,
+      "end": 1.35,
+      "score": 0.925
+    },
+    {
+      "word": "example",
+      "start": 1.43,
+      "end": 1.93,
+      "score": 0.809
+    },
+    {
+      "word": "recording",
+      "start": 2.01,
+      "end": 2.57,
+      "score": 0.859
+    },
+    {
+      "word": "for",
+      "start": 4.091,
+      "end": 4.451,
+      "score": 0.858
+    },
+    {
+      "word": "the",
+      "start": 4.711,
+      "end": 4.811,
+      "score": 0.723
+    },
+    {
+      "word": "video",
+      "start": 4.852,
+      "end": 5.352,
+      "score": 0.963
+    },
+    {
+      "word": "demo",
+      "start": 5.492,
+      "end": 5.872,
+      "score": 0.899
+    },
+    {
+      "word": "MP4.",
+      "start": 6.132,
+      "end": 6.873,
+      "score": 0.792
+    },
+    {
+      "word": "Next",
+      "start": 9.234,
+      "end": 9.474,
+      "score": 0.917
+    },
+    {
+      "word": "point,",
+      "start": 9.574,
+      "end": 9.874,
+      "score": 0.972
+    },
+    {
+      "word": "home",
+      "start": 10.374,
+      "end": 10.695,
+      "score": 0.82
+    },
+    {
+      "word": "offense.",
+      "start": 11.035,
+      "end": 11.415,
+      "score": 0.759
+    },
+    {
+      "word": "Starting",
+      "start": 12.796,
+      "end": 13.216,
+      "score": 0.992
+    },
+    {
+      "word": "time,",
+      "start": 13.276,
+      "end": 13.616,
+      "score": 0.859
+    },
+    {
+      "word": "zero",
+      "start": 14.557,
+      "end": 14.917,
+      "score": 0.866
+    },
+    {
+      "word": "hours,",
+      "start": 14.977,
+      "end": 15.377,
+      "score": 0.852
+    },
+    {
+      "word": "zero",
+      "start": 16.738,
+      "end": 17.158,
+      "score": 0.879
+    },
+    {
+      "word": "minutes",
+      "start": 17.238,
+      "end": 17.618,
+      "score": 0.823
+    },
+    {
+      "word": "and",
+      "start": 18.198,
+      "end": 19.039,
+      "score": 0.826
+    },
+    {
+      "word": "32"
+    },
+    {
+      "word": "seconds.",
+      "start": 19.179,
+      "end": 19.639,
+      "score": 0.821
+    },
+    {
+      "word": "Point",
+      "start": 22.821,
+      "end": 23.161,
+      "score": 0.815
+    },
+    {
+      "word": "starts",
+      "start": 23.481,
+      "end": 24.021,
+      "score": 0.886
+    },
+    {
+      "word": "now.",
+      "start": 24.782,
+      "end": 24.962,
+      "score": 0.65
+    },
+    {
+      "word": "defense",
+      "start": 36.431,
+      "end": 36.931,
+      "score": 0.806
+    },
+    {
+      "word": "force",
+      "start": 37.392,
+      "end": 37.752,
+      "score": 0.84
+    },
+    {
+      "word": "forehand",
+      "start": 37.812,
+      "end": 38.332,
+      "score": 0.875
+    },
+    {
+      "word": "score",
+      "start": 39.133,
+      "end": 39.593,
+      "score": 0.852
+    },
+    {
+      "word": "point",
+      "start": 40.294,
+      "end": 40.614,
+      "score": 0.925
+    },
+    {
+      "word": "ends",
+      "start": 40.794,
+      "end": 41.014,
+      "score": 0.867
+    },
+    {
+      "word": "home",
+      "start": 43.176,
+      "end": 43.496,
+      "score": 0.831
+    },
+    {
+      "word": "score",
+      "start": 43.516,
+      "end": 43.916,
+      "score": 0.859
+    },
+    {
+      "word": "score",
+      "start": 44.817,
+      "end": 45.177,
+      "score": 0.888
+    },
+    {
+      "word": "home",
+      "start": 45.377,
+      "end": 45.698,
+      "score": 0.77
+    },
+    {
+      "word": "next",
+      "start": 50.801,
+      "end": 51.041,
+      "score": 0.903
+    },
+    {
+      "word": "point",
+      "start": 51.141,
+      "end": 51.442,
+      "score": 0.927
+    },
+    {
+      "word": "home",
+      "start": 52.562,
+      "end": 52.943,
+      "score": 0.837
+    },
+    {
+      "word": "defense",
+      "start": 53.283,
+      "end": 53.823,
+      "score": 0.814
+    },
+    {
+      "word": "players",
+      "start": 54.564,
+      "end": 55.044,
+      "score": 0.897
+    },
+    {
+      "word": "68"
+    },
+    {
+      "word": "77"
+    },
+    {
+      "word": "40"
+    },
+    {
+      "word": "21"
+    },
+    {
+      "word": "And",
+      "start": 70.626,
+      "end": 70.746,
+      "score": 0.822
+    },
+    {
+      "word": "34."
+    },
+    {
+      "word": "Point",
+      "start": 77.45,
+      "end": 77.831,
+      "score": 0.839
+    },
+    {
+      "word": "starts.",
+      "start": 78.251,
+      "end": 78.731,
+      "score": 0.856
+    },
+    {
+      "word": "Now.",
+      "start": 86.016,
+      "end": 86.296,
+      "score": 0.947
+    },
+    {
+      "word": "Defense.",
+      "start": 92.54,
+      "end": 93.04,
+      "score": 0.812
+    },
+    {
+      "word": "Man.",
+      "start": 94.021,
+      "end": 94.361,
+      "score": 0.927
+    },
+    {
+      "word": "Defense.",
+      "start": 94.541,
+      "end": 95.041,
+      "score": 0.772
+    },
+    {
+      "word": "Force.",
+      "start": 95.322,
+      "end": 95.762,
+      "score": 0.843
+    },
+    {
+      "word": "Forehand.",
+      "start": 96.783,
+      "end": 97.323,
+      "score": 0.897
+    },
+    {
+      "word": "file",
+      "start": 104.902,
+      "end": 105.307,
+      "score": 0.814
+    },
+    {
+      "word": "discussion.",
+      "start": 105.733,
+      "end": 106.32,
+      "score": 0.972
+    },
+    {
+      "word": "Continue.",
+      "start": 144.642,
+      "end": 145.183,
+      "score": 0.88
+    },
+    {
+      "word": "Turn",
+      "start": 156.004,
+      "end": 156.305,
+      "score": 0.757
+    },
+    {
+      "word": "over.",
+      "start": 156.405,
+      "end": 156.586,
+      "score": 1.0
+    },
+    {
+      "word": "Turn",
+      "start": 176.519,
+      "end": 176.819,
+      "score": 0.796
+    },
+    {
+      "word": "over.",
+      "start": 176.979,
+      "end": 177.239,
+      "score": 0.811
+    },
+    {
+      "word": "Score.",
+      "start": 193.623,
+      "end": 194.003,
+      "score": 0.86
+    },
+    {
+      "word": "Home",
+      "start": 195.404,
+      "end": 195.824,
+      "score": 0.786
+    },
+    {
+      "word": "scores.",
+      "start": 195.884,
+      "end": 196.384,
+      "score": 0.862
+    },
+    {
+      "word": "Score",
+      "start": 197.344,
+      "end": 197.664,
+      "score": 0.853
+    },
+    {
+      "word": "home.",
+      "start": 197.724,
+      "end": 197.984,
+      "score": 0.901
+    },
+    {
+      "word": "End",
+      "start": 198.744,
+      "end": 198.904,
+      "score": 0.812
+    },
+    {
+      "word": "point.",
+      "start": 199.004,
+      "end": 199.324,
+      "score": 0.727
+    },
+    {
+      "word": "Next",
+      "start": 203.365,
+      "end": 203.586,
+      "score": 0.779
+    },
+    {
+      "word": "point.",
+      "start": 203.666,
+      "end": 203.986,
+      "score": 0.893
+    },
+    {
+      "word": "Home",
+      "start": 204.446,
+      "end": 204.766,
+      "score": 0.832
+    },
+    {
+      "word": "defense.",
+      "start": 204.926,
+      "end": 205.406,
+      "score": 0.616
+    },
+    {
+      "word": "start",
+      "start": 210.498,
+      "end": 210.958,
+      "score": 0.859
+    },
+    {
+      "word": "now",
+      "start": 212.66,
+      "end": 212.88,
+      "score": 0.984
+    },
+    {
+      "word": "defense",
+      "start": 223.367,
+      "end": 223.867,
+      "score": 0.804
+    },
+    {
+      "word": "force",
+      "start": 224.768,
+      "end": 225.168,
+      "score": 0.672
+    },
+    {
+      "word": "forehand",
+      "start": 227.13,
+      "end": 227.67,
+      "score": 0.857
+    },
+    {
+      "word": "turn",
+      "start": 236.817,
+      "end": 237.117,
+      "score": 0.817
+    },
+    {
+      "word": "over",
+      "start": 237.237,
+      "end": 237.397,
+      "score": 0.954
+    },
+    {
+      "word": "turn",
+      "start": 261.536,
+      "end": 261.836,
+      "score": 0.866
+    },
+    {
+      "word": "over",
+      "start": 261.976,
+      "end": 262.236,
+      "score": 0.774
+    },
+    {
+      "word": "home",
+      "start": 272.623,
+      "end": 272.923,
+      "score": 0.85
+    },
+    {
+      "word": "defense",
+      "start": 272.963,
+      "end": 273.483,
+      "score": 0.762
+    },
+    {
+      "word": "force",
+      "start": 273.943,
+      "end": 274.324,
+      "score": 0.863
+    },
+    {
+      "word": "forehand",
+      "start": 274.404,
+      "end": 274.924,
+      "score": 0.808
+    },
+    {
+      "word": "turn",
+      "start": 277.966,
+      "end": 278.266,
+      "score": 0.848
+    },
+    {
+      "word": "over",
+      "start": 278.366,
+      "end": 278.526,
+      "score": 0.943
+    },
+    {
+      "word": "turn",
+      "start": 325.667,
+      "end": 325.953,
+      "score": 0.687
+    },
+    {
+      "word": "over.",
+      "start": 326.055,
+      "end": 326.238,
+      "score": 0.983
+    },
+    {
+      "word": "Turn",
+      "start": 387.455,
+      "end": 387.755,
+      "score": 0.904
+    },
+    {
+      "word": "over.",
+      "start": 387.835,
+      "end": 388.055,
+      "score": 0.828
+    },
+    {
+      "word": "Correction.",
+      "start": 389.936,
+      "end": 390.536,
+      "score": 0.889
+    },
+    {
+      "word": "No",
+      "start": 392.057,
+      "end": 392.357,
+      "score": 0.97
+    },
+    {
+      "word": "turn",
+      "start": 392.497,
+      "end": 392.777,
+      "score": 0.862
+    },
+    {
+      "word": "over.",
+      "start": 392.897,
+      "end": 393.157,
+      "score": 0.807
+    },
+    {
+      "word": "Score.",
+      "start": 394.557,
+      "end": 395.018,
+      "score": 0.9
+    },
+    {
+      "word": "Point",
+      "start": 395.318,
+      "end": 395.678,
+      "score": 0.761
+    },
+    {
+      "word": "ends.",
+      "start": 395.838,
+      "end": 396.098,
+      "score": 0.895
+    },
+    {
+      "word": "Score",
+      "start": 399.019,
+      "end": 399.499,
+      "score": 0.817
+    },
+    {
+      "word": "away.",
+      "start": 399.939,
+      "end": 400.359,
+      "score": 0.907
+    },
+    {
+      "word": "Next",
+      "start": 408.362,
+      "end": 408.662,
+      "score": 0.914
+    },
+    {
+      "word": "point.",
+      "start": 408.722,
+      "end": 409.042,
+      "score": 0.81
+    },
+    {
+      "word": "Home",
+      "start": 411.423,
+      "end": 411.783,
+      "score": 0.93
+    },
+    {
+      "word": "starts",
+      "start": 411.923,
+      "end": 412.324,
+      "score": 0.868
+    },
+    {
+      "word": "on",
+      "start": 412.564,
+      "end": 412.684,
+      "score": 0.95
+    },
+    {
+      "word": "offense.",
+      "start": 412.884,
+      "end": 413.244,
+      "score": 0.783
+    },
+    {
+      "word": "players",
+      "start": 415.902,
+      "end": 416.282,
+      "score": 0.888
+    },
+    {
+      "word": "32"
+    },
+    {
+      "word": "11"
+    },
+    {
+      "word": "17"
+    },
+    {
+      "word": "point",
+      "start": 416.723,
+      "end": 417.143,
+      "score": 0.607
+    },
+    {
+      "word": "starts",
+      "start": 417.163,
+      "end": 417.443,
+      "score": 0.441
+    },
+    {
+      "word": "now",
+      "start": 417.463,
+      "end": 420.825,
+      "score": 0.331
+    },
+    {
+      "word": "players",
+      "start": 420.885,
+      "end": 421.225,
+      "score": 0.494
+    },
+    {
+      "word": "7"
+    },
+    {
+      "word": "27"
+    },
+    {
+      "word": "40"
+    },
+    {
+      "word": "score",
+      "start": 422.926,
+      "end": 423.207,
+      "score": 0.801
+    },
+    {
+      "word": "point",
+      "start": 445.424,
+      "end": 445.744,
+      "score": 0.893
+    },
+    {
+      "word": "ends",
+      "start": 445.964,
+      "end": 446.184,
+      "score": 0.735
+    },
+    {
+      "word": "now",
+      "start": 447.705,
+      "end": 447.965,
+      "score": 0.853
+    },
+    {
+      "word": "home",
+      "start": 451.227,
+      "end": 451.647,
+      "score": 0.73
+    },
+    {
+      "word": "score",
+      "start": 451.747,
+      "end": 452.127,
+      "score": 0.91
+    },
+    {
+      "word": "next",
+      "start": 459.35,
+      "end": 459.59,
+      "score": 0.895
+    },
+    {
+      "word": "point",
+      "start": 459.671,
+      "end": 459.991,
+      "score": 0.826
+    },
+    {
+      "word": "home",
+      "start": 460.891,
+      "end": 461.231,
+      "score": 0.757
+    },
+    {
+      "word": "starts",
+      "start": 461.291,
+      "end": 461.671,
+      "score": 0.939
+    },
+    {
+      "word": "on",
+      "start": 461.932,
+      "end": 462.092,
+      "score": 0.714
+    },
+    {
+      "word": "defense",
+      "start": 462.232,
+      "end": 462.672,
+      "score": 0.777
+    },
+    {
+      "word": "Point",
+      "start": 477.912,
+      "end": 478.272,
+      "score": 0.925
+    },
+    {
+      "word": "starts.",
+      "start": 478.512,
+      "end": 479.032,
+      "score": 0.838
+    },
+    {
+      "word": "Now.",
+      "start": 483.134,
+      "end": 483.394,
+      "score": 0.942
+    },
+    {
+      "word": "Break",
+      "start": 499.742,
+      "end": 500.022,
+      "score": 0.951
+    },
+    {
+      "word": "chord.",
+      "start": 500.182,
+      "end": 500.482,
+      "score": 0.789
+    },
+    {
+      "word": "score",
+      "start": 512.941,
+      "end": 513.421,
+      "score": 0.866
+    },
+    {
+      "word": "point",
+      "start": 513.762,
+      "end": 514.102,
+      "score": 0.838
+    },
+    {
+      "word": "ends",
+      "start": 514.282,
+      "end": 514.502,
+      "score": 0.673
+    },
+    {
+      "word": "next",
+      "start": 530.653,
+      "end": 530.893,
+      "score": 0.978
+    },
+    {
+      "word": "point",
+      "start": 530.973,
+      "end": 531.313,
+      "score": 0.812
+    },
+    {
+      "word": "players",
+      "start": 531.553,
+      "end": 532.054,
+      "score": 0.912
+    },
+    {
+      "word": "32"
+    },
+    {
+      "word": "27"
+    },
+    {
+      "word": "17"
+    },
+    {
+      "word": "40,"
+    },
+    {
+      "word": "11"
+    },
+    {
+      "word": "point",
+      "start": 548.924,
+      "end": 549.184,
+      "score": 0.951
+    },
+    {
+      "word": "starts.",
+      "start": 549.244,
+      "end": 549.664,
+      "score": 0.932
+    },
+    {
+      "word": "Now.",
+      "start": 552.486,
+      "end": 552.727,
+      "score": 0.883
+    },
+    {
+      "word": "Score",
+      "start": 560.452,
+      "end": 560.912,
+      "score": 0.896
+    },
+    {
+      "word": "point",
+      "start": 561.172,
+      "end": 561.493,
+      "score": 0.87
+    },
+    {
+      "word": "ends.",
+      "start": 561.673,
+      "end": 561.873,
+      "score": 0.872
+    },
+    {
+      "word": "Next",
+      "start": 574.873,
+      "end": 575.093,
+      "score": 0.933
+    },
+    {
+      "word": "point,",
+      "start": 575.213,
+      "end": 575.534,
+      "score": 0.907
+    },
+    {
+      "word": "home",
+      "start": 576.174,
+      "end": 576.474,
+      "score": 0.987
+    },
+    {
+      "word": "starts",
+      "start": 576.514,
+      "end": 576.875,
+      "score": 0.836
+    },
+    {
+      "word": "on",
+      "start": 577.035,
+      "end": 577.135,
+      "score": 0.76
+    },
+    {
+      "word": "defense.",
+      "start": 577.175,
+      "end": 577.715,
+      "score": 0.771
+    },
+    {
+      "word": "Point",
+      "start": 596.869,
+      "end": 597.17,
+      "score": 0.782
+    },
+    {
+      "word": "starts.",
+      "start": 597.21,
+      "end": 597.63,
+      "score": 0.906
+    },
+    {
+      "word": "Now,",
+      "start": 598.611,
+      "end": 598.811,
+      "score": 0.991
+    },
+    {
+      "word": "Score",
+      "start": 615.646,
+      "end": 616.126,
+      "score": 0.869
+    },
+    {
+      "word": "point",
+      "start": 617.147,
+      "end": 617.427,
+      "score": 0.805
+    },
+    {
+      "word": "ends",
+      "start": 617.627,
+      "end": 617.888,
+      "score": 0.772
+    },
+    {
+      "word": "Next",
+      "start": 621.71,
+      "end": 621.97,
+      "score": 0.948
+    },
+    {
+      "word": "point",
+      "start": 622.07,
+      "end": 622.41,
+      "score": 0.921
+    },
+    {
+      "word": "Home",
+      "start": 623.571,
+      "end": 623.911,
+      "score": 0.87
+    },
+    {
+      "word": "starts",
+      "start": 623.951,
+      "end": 624.312,
+      "score": 0.949
+    },
+    {
+      "word": "on",
+      "start": 624.492,
+      "end": 624.572,
+      "score": 0.966
+    },
+    {
+      "word": "offense",
+      "start": 624.712,
+      "end": 625.092,
+      "score": 0.629
+    },
+    {
+      "word": "Players",
+      "start": 626.213,
+      "end": 626.733,
+      "score": 0.924
+    },
+    {
+      "word": "32"
+    },
+    {
+      "word": "11"
+    },
+    {
+      "word": "27"
+    },
+    {
+      "word": "17"
+    },
+    {
+      "word": "40"
+    },
+    {
+      "word": "Point",
+      "start": 627.093,
+      "end": 627.454,
+      "score": 0.664
+    },
+    {
+      "word": "starts",
+      "start": 627.474,
+      "end": 627.774,
+      "score": 0.471
+    },
+    {
+      "word": "Now,",
+      "start": 649.457,
+      "end": 649.697,
+      "score": 0.942
+    },
+    {
+      "word": "brick",
+      "start": 656.561,
+      "end": 656.841,
+      "score": 0.736
+    },
+    {
+      "word": "called.",
+      "start": 656.941,
+      "end": 657.281,
+      "score": 0.672
+    },
+    {
+      "word": "Defense",
+      "start": 670.388,
+      "end": 670.889,
+      "score": 0.768
+    },
+    {
+      "word": "for",
+      "start": 671.109,
+      "end": 671.469,
+      "score": 0.761
+    },
+    {
+      "word": "backhand,",
+      "start": 671.689,
+      "end": 672.209,
+      "score": 0.91
+    },
+    {
+      "word": "force",
+      "start": 672.79,
+      "end": 673.03,
+      "score": 0.726
+    },
+    {
+      "word": "backhand.",
+      "start": 673.05,
+      "end": 673.39,
+      "score": 0.879
+    },
+    {
+      "word": "Score",
+      "start": 678.562,
+      "end": 679.002,
+      "score": 0.784
+    },
+    {
+      "word": "point",
+      "start": 679.142,
+      "end": 679.422,
+      "score": 0.831
+    },
+    {
+      "word": "ends.",
+      "start": 679.542,
+      "end": 679.742,
+      "score": 0.832
+    },
+    {
+      "word": "Next",
+      "start": 702.749,
+      "end": 702.95,
+      "score": 0.864
+    },
+    {
+      "word": "point.",
+      "start": 703.03,
+      "end": 703.37,
+      "score": 0.86
+    },
+    {
+      "word": "Homestarch",
+      "start": 704.29,
+      "end": 704.85,
+      "score": 0.744
+    },
+    {
+      "word": "on",
+      "start": 704.91,
+      "end": 704.99,
+      "score": 0.992
+    },
+    {
+      "word": "defense.",
+      "start": 705.03,
+      "end": 705.55,
+      "score": 0.744
+    },
+    {
+      "word": "Point",
+      "start": 706.551,
+      "end": 706.851,
+      "score": 0.807
+    },
+    {
+      "word": "starts.",
+      "start": 706.911,
+      "end": 707.291,
+      "score": 0.924
+    },
+    {
+      "word": "Now.",
+      "start": 713.866,
+      "end": 714.126,
+      "score": 0.946
+    },
+    {
+      "word": "Defense",
+      "start": 727.392,
+      "end": 727.912,
+      "score": 0.828
+    },
+    {
+      "word": "force",
+      "start": 728.172,
+      "end": 728.532,
+      "score": 0.913
+    },
+    {
+      "word": "middle.",
+      "start": 728.612,
+      "end": 728.952,
+      "score": 0.786
+    },
+    {
+      "word": "Turn",
+      "start": 732.014,
+      "end": 732.314,
+      "score": 0.735
+    },
+    {
+      "word": "over.",
+      "start": 732.394,
+      "end": 732.554,
+      "score": 0.96
+    },
+    {
+      "word": "score,",
+      "start": 768.34,
+      "end": 768.801,
+      "score": 0.867
+    },
+    {
+      "word": "home",
+      "start": 769.082,
+      "end": 769.422,
+      "score": 0.647
+    },
+    {
+      "word": "scores,",
+      "start": 769.462,
+      "end": 769.963,
+      "score": 0.842
+    },
+    {
+      "word": "point",
+      "start": 770.965,
+      "end": 771.266,
+      "score": 0.8
+    },
+    {
+      "word": "ends.",
+      "start": 771.486,
+      "end": 771.706,
+      "score": 0.812
+    },
+    {
+      "word": "Next",
+      "start": 774.512,
+      "end": 774.772,
+      "score": 0.929
+    },
+    {
+      "word": "point,",
+      "start": 774.872,
+      "end": 775.213,
+      "score": 0.867
+    },
+    {
+      "word": "home",
+      "start": 776.115,
+      "end": 776.435,
+      "score": 0.715
+    },
+    {
+      "word": "starts",
+      "start": 776.455,
+      "end": 776.836,
+      "score": 0.823
+    },
+    {
+      "word": "on",
+      "start": 777.016,
+      "end": 777.116,
+      "score": 0.88
+    },
+    {
+      "word": "defense.",
+      "start": 777.177,
+      "end": 777.677,
+      "score": 0.861
+    },
+    {
+      "word": "players",
+      "start": 858.493,
+      "end": 858.933,
+      "score": 0.877
+    },
+    {
+      "word": "34,"
+    },
+    {
+      "word": "21,"
+    },
+    {
+      "word": "40,"
+    },
+    {
+      "word": "15,"
+    },
+    {
+      "word": "77"
+    },
+    {
+      "word": "point",
+      "start": 860.294,
+      "end": 860.614,
+      "score": 0.62
+    },
+    {
+      "word": "starts",
+      "start": 860.674,
+      "end": 861.014,
+      "score": 0.418
+    },
+    {
+      "word": "now.",
+      "start": 861.034,
+      "end": 861.654,
+      "score": 0.819
+    },
+    {
+      "word": "defense,",
+      "start": 894.659,
+      "end": 895.1,
+      "score": 0.762
+    },
+    {
+      "word": "force",
+      "start": 896.101,
+      "end": 896.482,
+      "score": 0.933
+    },
+    {
+      "word": "middle,",
+      "start": 896.542,
+      "end": 896.862,
+      "score": 0.78
+    },
+    {
+      "word": "turnover,",
+      "start": 900.387,
+      "end": 901.028,
+      "score": 0.831
+    },
+    {
+      "word": "home",
+      "start": 905.555,
+      "end": 905.915,
+      "score": 0.945
+    },
+    {
+      "word": "scores,",
+      "start": 905.956,
+      "end": 906.496,
+      "score": 0.839
+    },
+    {
+      "word": "point",
+      "start": 907.298,
+      "end": 907.618,
+      "score": 0.957
+    },
+    {
+      "word": "ends.",
+      "start": 907.798,
+      "end": 907.999,
+      "score": 0.868
+    },
+    {
+      "word": "Next",
+      "start": 947.483,
+      "end": 947.728,
+      "score": 0.96
+    },
+    {
+      "word": "point.",
+      "start": 947.871,
+      "end": 948.157,
+      "score": 0.675
+    },
+    {
+      "word": "Home",
+      "start": 977.987,
+      "end": 978.287,
+      "score": 0.908
+    },
+    {
+      "word": "starts",
+      "start": 978.327,
+      "end": 978.667,
+      "score": 0.877
+    },
+    {
+      "word": "on",
+      "start": 978.767,
+      "end": 978.887,
+      "score": 0.978
+    },
+    {
+      "word": "defense.",
+      "start": 978.947,
+      "end": 979.467,
+      "score": 0.76
+    },
+    {
+      "word": "Players,",
+      "start": 995.79,
+      "end": 996.31,
+      "score": 0.861
+    },
+    {
+      "word": "Fullity.",
+      "start": 996.51,
+      "end": 997.13,
+      "score": 0.753
+    },
+    {
+      "word": "Point",
+      "start": 1000.471,
+      "end": 1000.751,
+      "score": 0.98
+    },
+    {
+      "word": "starts.",
+      "start": 1000.811,
+      "end": 1001.271,
+      "score": 0.822
+    },
+    {
+      "word": "Now.",
+      "start": 1005.052,
+      "end": 1005.312,
+      "score": 0.981
+    },
+    {
+      "word": "players",
+      "start": 1015.469,
+      "end": 1016.45,
+      "score": 0.831
+    },
+    {
+      "word": "68"
+    },
+    {
+      "word": "score",
+      "start": 1021.855,
+      "end": 1022.315,
+      "score": 0.919
+    },
+    {
+      "word": "point",
+      "start": 1023.096,
+      "end": 1023.396,
+      "score": 0.866
+    },
+    {
+      "word": "ends",
+      "start": 1023.536,
+      "end": 1023.777,
+      "score": 0.831
+    },
+    {
+      "word": "next",
+      "start": 1029.782,
+      "end": 1030.022,
+      "score": 0.899
+    },
+    {
+      "word": "point",
+      "start": 1030.123,
+      "end": 1030.463,
+      "score": 0.752
+    },
+    {
+      "word": "home",
+      "start": 1031.404,
+      "end": 1031.704,
+      "score": 0.829
+    },
+    {
+      "word": "on",
+      "start": 1031.884,
+      "end": 1032.024,
+      "score": 0.893
+    },
+    {
+      "word": "offense",
+      "start": 1032.285,
+      "end": 1032.705,
+      "score": 0.689
+    },
+    {
+      "word": "players",
+      "start": 1033.345,
+      "end": 1033.806,
+      "score": 0.832
+    },
+    {
+      "word": "11"
+    },
+    {
+      "word": "40"
+    },
+    {
+      "word": "32"
+    },
+    {
+      "word": "17"
+    },
+    {
+      "word": "27"
+    },
+    {
+      "word": "Point",
+      "start": 1056.018,
+      "end": 1056.339,
+      "score": 0.741
+    },
+    {
+      "word": "starts.",
+      "start": 1056.379,
+      "end": 1056.839,
+      "score": 0.821
+    },
+    {
+      "word": "Now.",
+      "start": 1061.206,
+      "end": 1061.466,
+      "score": 0.927
+    },
+    {
+      "word": "Break",
+      "start": 1069.298,
+      "end": 1069.598,
+      "score": 0.795
+    },
+    {
+      "word": "called.",
+      "start": 1069.738,
+      "end": 1070.079,
+      "score": 0.95
+    },
+    {
+      "word": "Defense",
+      "start": 1087.406,
+      "end": 1087.906,
+      "score": 0.827
+    },
+    {
+      "word": "force",
+      "start": 1088.187,
+      "end": 1088.567,
+      "score": 0.563
+    },
+    {
+      "word": "backhand.",
+      "start": 1088.707,
+      "end": 1089.188,
+      "score": 0.89
+    },
+    {
+      "word": "Score.",
+      "start": 1090.008,
+      "end": 1090.429,
+      "score": 0.836
+    },
+    {
+      "word": "Point",
+      "start": 1092.31,
+      "end": 1092.591,
+      "score": 0.85
+    },
+    {
+      "word": "ends.",
+      "start": 1092.751,
+      "end": 1092.931,
+      "score": 0.891
+    },
+    {
+      "word": "Game",
+      "start": 1122.718,
+      "end": 1123.061,
+      "score": 0.878
+    },
+    {
+      "word": "ends.",
+      "start": 1123.202,
+      "end": 1123.424,
+      "score": 0.915
+    }
+  ],
+  "language": "en"
+}

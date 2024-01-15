@@ -1,7 +1,7 @@
 # Project specific. Only include small examples of the contents of these folders.
 audio/*
-!audio/demo_en.wav
-!audio/demo_fi.wav
+!audio/demo_en.mp3
+!audio/demo_fi.mp3
 
 !videos/raw/
 videos/raw/*
