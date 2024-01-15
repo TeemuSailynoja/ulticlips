@@ -1,0 +1,77 @@
+# Project specific. Only include small examples of the contents of these folders.
+audio/*
+!audio/demo_en.wav
+!audio/demo_fi.wav
+
+!videos/raw/
+videos/raw/*
+!videos/raw/demo.mp4
+
+!videos/points/
+videos/points/*
+!videos/points/demo?.mp4
+!videos/points/demo??.mp4
+
+!videos/output/
+videos/output/*
+!videos/output/demo_result.mp4
+
+!annotations/games/
+annotations/games/*
+!annotations/games/demo_en.json
+!annotations/games/demo_fi.json
+
+!annotations/output/
+annotations/output/*
+!annotations/output/demo_en.json
+!annotations/output/demo_fi.json
+
+# Patterns to prevent common accidental commits
+
+# Editors
+.vscode/
+
+# Mac/OSX
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Source for the following rules: https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
