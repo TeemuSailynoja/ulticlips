@@ -7,7 +7,7 @@ edit the videos to clips matching selected parameters.
 
 ### Dependencies
 
-We use a Python interfacec to [ffmpeg](https://ffmpeg.org/download.html) to process the video files, and [whisperX](https://github.com/m-bain/whisperX) to convert audio files into text annotations.
+We use a Python interface to [ffmpeg](https://ffmpeg.org/download.html) to process the video files, and [whisperX](https://github.com/m-bain/whisperX) to convert audio files into text annotations.
 
 Installing [Conda](https://docs.conda.io/en/latest/) for managing Python virtual environments is also highly encouraged.
 
@@ -23,15 +23,14 @@ Just follow the instructions at the [ffmpeg download page](https://ffmpeg.org/do
 
 #### WhisperX
 
-Mostly following the [original WhisperX setup](https://github.com/m-bain/whisperX?tab=readme-ov-file#setup-%EF%B8%8F)
+Mostly following the [original WhisperX setup](https://github.com/m-bain/whisperX?tab=readme-ov-file#setup-%EF%B8%8F):
 
-**Setup:**
 > Tested for PyTorch 2.0, Python 3.10 (use other versions at your own risk!)
 > GPU execution requires the NVIDIA libraries cuBLAS 11.x and cuDNN 8.x to be installed on the system. Please refer to the [CTranslate2 documentation](https://opennmt.net/CTranslate2/installation.html).
 
 You don't *need* GPU execution. It does speed things up, but a 2015 laptop handles speech-to-text with the `medium` model in almost real time.
 
-### 1. Create Python3.10 environment
+##### 1. Create Python3.10 environment
 
 ```shell
 conda create --name whisperx python=3.10
@@ -41,7 +40,7 @@ conda create --name whisperx python=3.10
 conda activate whisperx
 ```
 
-### 2. Install PyTorch
+##### 2. Install PyTorch
 
 **Linux and Windows CUDA11.8**:
 
@@ -57,7 +56,7 @@ conda install pytorch==2.0.0 torchaudio==2.0.0 cpuonly -c pytorch
 
 See other methods [here.](https://pytorch.org/get-started/previous-versions/#v200)
 
-### 3. Install the WhisperX project repo
+##### 3. Install the WhisperX project repo
 
 ```shell
 pip install git+https://github.com/m-bain/whisperx.git
