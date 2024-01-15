@@ -1,7 +1,7 @@
 # Ulti Clips
 
 A tool to annotate videos of ultimate from recorded speech, and then
-edit the videos to clips matching selected parameters. 
+edit the videos to clips matching selected parameters.
 
 ## Description
 
@@ -13,14 +13,16 @@ An in-depth paragraph about the project and an overview of use.
 
 We use a Python interfacec to [ffmpeg](https://ffmpeg.org/download.html) to process the video files, and [whisperX](https://github.com/m-bain/whisperX) to convert audio files into text annotations.
 
-Installing [Conda]() for managing Python virtual environments is also highly encouraged.
+Installing [Conda](https://docs.conda.io/en/latest/) for managing Python virtual environments is also highly encouraged.
 
 ### Installing
 
 #### FFMPEG
+
 Just follow the instructions at the [ffmpeg download page](https://ffmpeg.org/download.html).
 
 #### Conda
+
 [Conda documentation on installation.](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
 
 #### WhisperX
@@ -29,7 +31,6 @@ Mostly following the [original WhisperX setup](https://github.com/m-bain/whisper
 
 **Setup:**
 > Tested for PyTorch 2.0, Python 3.10 (use other versions at your own risk!)
-> 
 > GPU execution requires the NVIDIA libraries cuBLAS 11.x and cuDNN 8.x to be installed on the system. Please refer to the [CTranslate2 documentation](https://opennmt.net/CTranslate2/installation.html).
 
 You don't *need* GPU execution. It does speed things up, but a 2015 laptop handles speech-to-text with the `medium` model in almost real time.
@@ -44,14 +45,14 @@ conda create --name whisperx python=3.10
 conda activate whisperx
 ```
 
-
-### 2. Install PyTorch, e.g. for :
+### 2. Install PyTorch
 
 **Linux and Windows CUDA11.8**:
 
 ```shell
 conda install pytorch==2.0.0 torchaudio==2.0.0 pytorch-cuda=11.8 -c pytorch -c nvidia
 ```
+
 **CPU only (laptop)**:
 
 ```shell
@@ -73,6 +74,7 @@ pip install git+https://github.com/m-bain/whisperx.git --upgrade
 ```
 
 If wishing to modify this package, clone and install in editable mode:
+
 ```shell
 git clone https://github.com/m-bain/whisperX.git
 cd whisperX
@@ -83,13 +85,16 @@ pip install -e .
 
 * How to run the program
 * Step-by-step bullets
+
 ```
 code blocks for commands
 ```
+
 ### Running the video processing
 
 * How to run the program
 * Step-by-step bullets
+
 ```
 code blocks for commands
 ```
@@ -105,7 +110,6 @@ command to run if program contains helper info
 ## Authors
 
 Teemu Säilynoja
-
 
 ## License
 
