@@ -14,7 +14,7 @@ videos/points/*
 
 !videos/output/
 videos/output/*
-!videos/output/demo_result.mp4
+!videos/output/demo.mp4
 
 !annotations/games/
 annotations/games/*
