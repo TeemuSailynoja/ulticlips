@@ -9,8 +9,8 @@ videos/raw/*
 
 !videos/points/
 videos/points/*
-!videos/points/demo?.mp4
-!videos/points/demo??.mp4
+!videos/points/demo-?.mp4
+!videos/points/demo-??.mp4
 
 !videos/output/
 videos/output/*
