@@ -3,25 +3,27 @@
 A tool to annotate videos of ultimate from recorded speech, and then
 edit the videos to clips matching selected parameters.
 
+For example, if the audio includes "turnover" whenever one happens, the user can later make a compilation of all the turnovers in their video library.
+
 ## Getting Started
 
 ### Dependencies
 
-We use a Python interface to [ffmpeg](https://ffmpeg.org/download.html) to process the video files, and [whisperX](https://github.com/m-bain/whisperX) to convert audio files into text annotations.
-
-Installing [Conda](https://docs.conda.io/en/latest/) for managing Python virtual environments is also highly encouraged.
-
-### Installing
-
-#### FFMPEG
-
-Just follow the instructions at the [ffmpeg download page](https://ffmpeg.org/download.html).
-
-#### Conda
+Using [Conda](https://docs.conda.io/en/latest/) for managing Python virtual environments is highly encouraged.
 
 [Conda documentation on installation.](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
 
-#### WhisperX
+#### Video editing
+
+We use a Python interface to [ffmpeg](https://ffmpeg.org/download.html) to process the video files.
+
+[ffmpeg download page](https://ffmpeg.org/download.html)
+
+#### Processing audio files
+
+[WhisperX](https://github.com/m-bain/whisperX) is used to convert audio files into text annotations.
+
+##### Installing WhisperX
 
 Mostly following the [original WhisperX setup](https://github.com/m-bain/whisperX?tab=readme-ov-file#setup-%EF%B8%8F):
 
@@ -30,7 +32,7 @@ Mostly following the [original WhisperX setup](https://github.com/m-bain/whisper
 
 You don't *need* GPU execution. It does speed things up, but a 2015 laptop handles speech-to-text with the `medium` model in almost real time.
 
-##### 1. Create Python3.10 environment
+###### 1. Create Python3.10 environment
 
 ```shell
 conda create --name whisperx python=3.10
@@ -40,7 +42,7 @@ conda create --name whisperx python=3.10
 conda activate whisperx
 ```
 
-##### 2. Install PyTorch
+###### 2. Install PyTorch
 
 **Linux and Windows CUDA11.8**:
 
@@ -56,7 +58,7 @@ conda install pytorch==2.0.0 torchaudio==2.0.0 cpuonly -c pytorch
 
 See other methods [here.](https://pytorch.org/get-started/previous-versions/#v200)
 
-##### 3. Install the WhisperX project repo
+###### 3. Install the WhisperX project repo
 
 ```shell
 pip install git+https://github.com/m-bain/whisperx.git
@@ -66,14 +68,6 @@ If already installed, update package to most recent commit
 
 ```shell
 pip install git+https://github.com/m-bain/whisperx.git --upgrade
-```
-
-If wishing to modify this package, clone and install in editable mode:
-
-```shell
-git clone https://github.com/m-bain/whisperX.git
-cd whisperX
-pip install -e .
 ```
 
 ### Running the speech-to-text conversion
