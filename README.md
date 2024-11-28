@@ -5,6 +5,9 @@ edit the videos to clips matching selected parameters.
 
 For example, if the audio includes "turnover" whenever one happens, the user can later make a compilation of all the turnovers in their video library.
 
+## Current state
+The MWP of using speech recordings and AI to split the video into peaces that are glued together with the excess removed from between points is working.
+
 ## Getting Started
 
 ### Dependencies
