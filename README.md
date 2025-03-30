@@ -79,4 +79,4 @@ Teemu Säilynoja
 
 ## License
 
-This project is licensed under the GNU General Public License v2.0 License - see the LICENSE.md file for details.
+This project is licensed under the GNU General Public License v2.0 License - see the [LICENSE](LICENSE) file for details.
