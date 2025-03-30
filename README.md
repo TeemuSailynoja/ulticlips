@@ -1,12 +1,12 @@
 # Ulti Clips
 
-A tool to annotate videos of ultimate from recorded speech, and then
+Use Speech-to-Text AI to add annotations to videos of ultimate frisbee with recorded commentary, and then
 edit the videos to clips matching selected parameters.
 
 For example, if the audio includes "turnover" whenever one happens, the user can later make a compilation of all the turnovers in their video library.
 
 ## Current state
-The MWP of using speech recordings and AI to split the video into peaces that are glued together with the excess removed from between points is working.
+The MWP of using speech recordings and AI to split the video into points and then gluing the clips together remowing the time between points is working.
 
 ## Getting Started
 
